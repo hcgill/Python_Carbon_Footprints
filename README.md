@@ -10,5 +10,11 @@
 ### Carbon Footprints Proposal
 - PDF of project proposal
 
-### Carbon Footprints.ipynb
-- Jupyter notebook containing code and markdown for project
+### Carbon Footprints.7z.001 and Carbon Footprints.7z.002
+- 7-Zip files containing Jupyter Notebook with code for project
+
+### carbon footprints report
+- pdf of final report for carbon footprints project
+
+### carbon footprints ppt
+- pdf of slides for project presentation
